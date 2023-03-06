@@ -22,3 +22,8 @@ int main()
 //* To display output to the screen, we use cout << (similar to the printf statement in the C language). To take input from the terminal, we use cin >> (similar to the scanf statement in the C language).
 
 //! The main method has int as it's return type. Hence, we need to return 0 to terminate the program.
+
+/* Output=
+{ g++ 1-Hello-world.cpp -o 1-Hello-world } ; if ($?) { .\1-Hello-world }
+Hello world
+My Name is Ankit Kumar Singh */
