@@ -19,11 +19,13 @@
 - STL
 - Miscellaneous
 
-## Objective in mind:
+## Objectives in mind:
 - Practice and improve C++ programming skills
 - Better understanding of C++ syntax, coding conventions, and best practices
 - Learn to solve common problems and develop efficient solutions
 - Work through so many programs to gain confidence and become proficient C++ programmers.
 
 ## Programs Listing:
-#### 1. Hello World Program in C++
+### Basics
+1. Hello World Program in C++
+2. 
