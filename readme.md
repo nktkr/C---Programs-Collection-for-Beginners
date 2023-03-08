@@ -1,5 +1,7 @@
 # C++ Programs Collection for Beginners
-> I want to challenge myself to daily solve at least one program in C++ to gain confidence in c++ syntax. 
+<!--[Studytonight
+](https://www.studytonight.com/cpp-programs/cpp-adding-two-numbers-program) -->
+> I want to challenge myself to daily solve at least one program in C++ to gain confidence in C++ syntax. 
 
 > My target is add atleast **100 programs** to this github repo.
 
@@ -27,5 +29,7 @@
 
 ## Programs Listing:
 ### Basics
-1. Hello World Program in C++
-2. 
+1. Hello World Program 
+2. Check if the number is Positive or Negative Program
+3. Find the ASCII value of the character program
+4. 
