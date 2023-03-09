@@ -27,5 +27,3 @@ int main()
 { g++ 1-Hello-world.cpp -o 1-Hello-world } ; if ($?) { .\1-Hello-world }
 Hello world
 My Name is Ankit Kumar Singh */
-
-// day-1 [07/03/2023]
