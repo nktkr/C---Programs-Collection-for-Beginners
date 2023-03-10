@@ -1,5 +1,6 @@
-#include<iostream>
+// 2. Program to add two numbers and print output
 
+#include<iostream>
 using namespace std;
 
 int main()

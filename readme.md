@@ -30,6 +30,11 @@
 ## Programs Listing:
 ### Basics
 1. Hello World Program 
-2. Check if the number is Positive or Negative Program
-3. Find the ASCII value of the character program
-4. 
+2. Program to add two numbers and print output
+3. Check if the number is Positive or Negative Program
+4. Find the ASCII value of the character program
+5. Program To Find Sum Of Series 1 + 2 + 3 + 4 + 5 + . . . . . . . . . . . . . . . . n
+6. Program Print Truth Table Of XY+Z Using Loop
+7. Program To Find Sum Of Series 1 + 1 / 2 ^ 2 + 1 / 3 ^ 3 + . . . . . . . . . . . . 1 / n ^ n
+8. Program To Find Sum Of Series 1 + 2 + 4 + 8 + 16 + 32 + . . . . . . . . n
+9. Program To Print Heart Pattern

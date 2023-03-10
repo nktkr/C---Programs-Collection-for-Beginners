@@ -1,3 +1,4 @@
+// 6. Program Print Truth Table Of XY+Z Using Loop
 #include <iostream>
 using namespace std;
 

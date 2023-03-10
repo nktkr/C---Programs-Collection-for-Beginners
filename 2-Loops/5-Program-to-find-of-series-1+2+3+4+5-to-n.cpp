@@ -1,3 +1,5 @@
+// 5. Program To Find Sum Of Series 1 + 2 + 3 + 4 + 5 + . . . . . . . . . . . . . . . . n
+
 #include <iostream>
 using namespace std;
 // int main()
