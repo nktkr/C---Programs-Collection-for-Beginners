@@ -72,7 +72,38 @@ Enter the No Of Row : 6
     
 16.  Program To Print A Given Pattern Or Series Like 12345, 5432, 234, 43, 3
 
-17. Program For Draw A Perfect Christmas Tree
+17. Program For Draw A Perfect Christmas Tree using stars as below
+    
 ```
-
+Output:
+Enter the number of floors in the christmas Tree : 4
+                  *
+                * * *
+              * * * * *
+            * * * * * * *
+              * * * * *
+            * * * * * * *
+          * * * * * * * * *
+        * * * * * * * * * * *
+          * * * * * * * * *
+        * * * * * * * * * * *
+      * * * * * * * * * * * * *
+    * * * * * * * * * * * * * * *
+      * * * * * * * * * * * * *
+    * * * * * * * * * * * * * * *
+  * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * *
+                * * *
+                * * *
+                * * *
+                * * *
+```
+18. Program to Print Half Pyramid using stars
+```
+*
+* *
+* * *
+* * * * 
+* * * * * 
+* * * * * *
 ```
