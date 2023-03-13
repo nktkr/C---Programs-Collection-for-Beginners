@@ -77,6 +77,8 @@ Enter the No Of Row : 6
 ```
 Output:
 Enter the number of floors in the christmas Tree : 4
+Enter the height of foot : 4
+Enter the width of foot (should be odd) : 3
                   *
                 * * *
               * * * * *
@@ -107,3 +109,4 @@ Enter the number of floors in the christmas Tree : 4
 * * * * * 
 * * * * * *
 ```
+19. Program To Find Sum Of Series 1 / 2 + 4 / 5 + 7 / 8 + . . . . . . . . .n
