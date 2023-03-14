@@ -110,3 +110,21 @@ Enter the width of foot (should be odd) : 3
 * * * * * *
 ```
 19. Program To Find Sum Of Series 1 / 2 + 4 / 5 + 7 / 8 + . . . . . . . . .n
+20. Program To Print Reverse Half Pyramid
+```
+Enter number of rows: 5
+* * * * *
+* * * *
+* * *
+* *
+*
+```
+21. Program To Print A Pascal Triangle
+```
+Enter number of rows: 4
+1
+1 1
+1 2 1
+1 3 3 1
+```
+![Pascal's triangle visualization](3-Patterns/PascalTriangleAnimated2.gif)
