@@ -24,7 +24,7 @@ int main()
     }
     for (int j = 1; j <= no_of_stars; j++)
     {
-      cout << "x";
+      cout << "*";
     }
     if (i >= rows)
       no_of_stars = no_of_stars - 2;
