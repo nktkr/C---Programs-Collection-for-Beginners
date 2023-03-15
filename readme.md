@@ -128,3 +128,26 @@ Enter number of rows: 4
 1 3 3 1
 ```
 ![Pascal's triangle visualization](3-Patterns/PascalTriangleAnimated2.gif)
+
+22. Program to print daimond pattern using stars (*)
+```
+Enter Diamond Star Pattern Row = 9
+Diamond Star Pattern
+        *
+       ***
+      *****
+     *******
+    *********
+   ***********
+  *************
+ ***************
+*****************
+ ***************
+  *************
+   ***********
+    *********
+     *******
+      *****
+       ***
+        *
+```
