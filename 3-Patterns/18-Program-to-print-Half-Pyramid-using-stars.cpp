@@ -1,3 +1,4 @@
+// 18. Program to print Half Pyramid using stars *
 #include<iostream>
 using namespace std;
 

@@ -151,3 +151,37 @@ Diamond Star Pattern
        ***
         *
 ```
+23. Program to Print Half Pyramid Pattern using Numbers Program
+```
+Enter the number of rows in the pyramid: 4
+
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+```
+24. Half Pyramid Pattern using Characters Program
+``` 
+Enter the number of rows in the pyramid: 4
+A 
+A B 
+A B C 
+A B C D 
+A B C D E 
+```
+25. Program to print Reverse Half Pyramid Pattern using Numbers
+```
+Enter the no. of rows : 4
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+```
+26. Program to print Reverse Half Pyramid Pattern using Characters
+```
+Enter the number of rows in the pyramid: 4
+A B C D 
+A B C
+A B 
+A
+```

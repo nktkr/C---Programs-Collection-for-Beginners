@@ -1,22 +1,51 @@
+// 21- Program to print pascal's Triangle
+// Naive approach; learn optimised solution during the DSA
+// very bad solution; lucid solution on the basis of nCr equivalent of each element
 #include <iostream>
+#include <string>
 using namespace std;
+
+// Returns factorial of n
+int fact(int n)
+{
+  if (n == 0)
+    return 1;
+  int res = 1;
+  for (int i = 2; i <= n; i++)
+    res = res * i;
+  return res;
+}
+// fuction to calulate nCr
+int nCr(int n, int r)
+{
+  return fact(n) / (fact(r) * fact(n - r));
+}
 
 int main()
 {
-    int rows;
+  int rows;
+  cout << "Enter the no. of rows : ";
+  cin >> rows;
 
-    cout << "Enter number of rows: ";
-    cin >> rows;
-
-    for(int i = rows; i >= 1; --i)
+  for (int i = 0; i < rows; i++)
+  {
+    for (int k = 1; k <= rows - i; k++)
     {
-        for(int j = 1; j <= i; ++j)
-        {
-            cout << "* ";
-        }
-        cout << endl;
+      cout << "  ";
     }
-    
-    return 0;
+    for (int j = 0; j <= i; j++)
+    {
+      if (i == 0 || i == j)
+      {
+        cout << "1"
+             << "  ";
+      }
+      else
+      {
+        cout << nCr(i, j) << "  ";
+      }
+    }
+    cout << endl;
+  }
+  return 0;
 }
-
