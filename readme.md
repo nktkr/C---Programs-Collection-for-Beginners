@@ -185,3 +185,13 @@ A B C
 A B 
 A
 ```
+
+27. Floyd's Triangle Program
+```
+Enter the number of rows in the pyramid: 4
+
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+```
