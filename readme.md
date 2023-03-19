@@ -250,10 +250,16 @@ Score in subject Grade
 | score | grade |
 | :---: | :---- |
 | >=90  | A     |
-80-89 |B
-70-79| C
-60-69 |D
-50-59| E
-<50 |F
+| 80-89 | B     |
+| 70-79 | C     |
+| 60-69 | D     |
+| 50-59 | E     |
+|  <50  | F     |
 
 33. Program Swap Two numbers without using 3rd variable
+
+34. Program To Check Number Is Even Or Odd Using If/Else Statements
+
+35. Program to Convert Decimal Number To Binary Number Using Loop
+
+36. Program to calculate Standard Deviation Using Function
