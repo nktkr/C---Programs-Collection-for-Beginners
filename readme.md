@@ -263,3 +263,6 @@ Score in subject Grade
 35. Program to Convert Decimal Number To Binary Number Using Loop
 
 36. Program to calculate Standard Deviation Using Function
+![](4-Numbers/standard-deviation-formula.png)
+
+37. Swap Two number using functions and pointers

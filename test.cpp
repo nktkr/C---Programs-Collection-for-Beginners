@@ -11,12 +11,14 @@ float standardDevOfData(float arrayOfElements[], int n)
   {
     meanOfElements += arrayOfElements[i];
   }
-  meanOfElements = meanOfElements / n;
+  if (n > 0) {
+    meanOfElements = meanOfElements / n;
+  }
 
   float upperTermSum = 0;
   for (int i = 0; i < n; i++)
   {
-    upperTermSum = upperTermSum + pow((arrayOfElements[i] - meanOfElements), 2);
+    upperTermSum = upperTermSum + pow(arrayOfElements[i] - meanOfElements, 2);
   }
 
   return (sqrt(upperTermSum/n));
@@ -29,7 +31,6 @@ int main()
   cin >> n;
 
   float arrayOfElements[n];
-
 
   cout << "Enter the elements one by one:";
   for (int i = 0; i < n; i++)
