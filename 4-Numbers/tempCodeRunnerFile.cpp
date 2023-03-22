@@ -1,2 +1,0 @@
-    if (temp >= n)
-      break;
