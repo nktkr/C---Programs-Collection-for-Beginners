@@ -276,3 +276,4 @@ Score in subject Grade
 39. Program To Find GCD (Greatest Common Divisor ) Using Functions
 
 40. Find Sum of n Numbers entered by the User
+41. Check whether the given Number is Even or Odd
