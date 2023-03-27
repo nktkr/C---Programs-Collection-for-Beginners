@@ -277,3 +277,5 @@ Score in subject Grade
 
 40. Find Sum of n Numbers entered by the User
 41. Check whether the given Number is Even or Odd
+42. Factorial of a given Number Program
+

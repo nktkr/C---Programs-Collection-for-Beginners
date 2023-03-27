@@ -13,7 +13,7 @@ int main()
   if (n % 2 == 0)
     cout << n << " is a Even number" << endl;
   else
-    cout << n << " is an odd number" << endl; 
+    cout << n << " is an odd number" << endl;
 
-  return 0;  
+  return 0;
 }

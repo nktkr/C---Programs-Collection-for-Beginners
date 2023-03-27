@@ -1,3 +1,9 @@
+# Added by nktkr
+
+tempCodeRunnerFile.cpp
+test.cpp
+test
+
 # Prerequisites
 *.d
 
@@ -34,3 +40,4 @@
 #vs code 
 *.vscode
 *.json
+
