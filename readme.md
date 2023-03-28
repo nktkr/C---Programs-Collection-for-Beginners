@@ -281,4 +281,7 @@ Score in subject Grade
 43. Square root and Cube root of a given Number
 44. Program to find GCD and LCM
 45. Check whether the number is Armstrong or not
+46. Count Number of Digits in a given Number
+47. Determine Perfect Square Program
+
  
