@@ -280,3 +280,5 @@ Score in subject Grade
 42. Factorial of a given Number Program
 43. Square root and Cube root of a given Number
 44. Program to find GCD and LCM
+45. Check whether the number is Armstrong or not
+ 

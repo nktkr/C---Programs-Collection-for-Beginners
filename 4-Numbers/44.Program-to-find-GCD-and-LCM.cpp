@@ -4,6 +4,7 @@
 
 using namespace std;
 
+// function implemented using Euclidean theorem
 int gcd(int a, int b)
 {
   if (b == 0)
