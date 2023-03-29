@@ -1,43 +1,28 @@
-// 36. Program to Calculate Standard Deviation Using Function
-
-#include <iostream>
-#include <cmath>
-using namespace std;
-
-float standardDevOfData(float arrayOfElements[], int n)
+class Solution
 {
-  float meanOfElements = 0;
-  for (int i = 0; i < n; i++)
+public:
+  bool areAlmostEqual(string s1, string s2)
   {
-    meanOfElements += arrayOfElements[i];
+    int size = s1.length();
+    int count = 0;
+    int compare[2];
+    for (int i = 0; i < size; i++)
+    {
+      if (s1[i] != s2[i])
+      {
+        if (count < 3)
+        {compare[count] = i;
+        count++;}
+          else
+          return false;
+      }
+    }
+    if (count == 1)
+      return false;
+
+    if ((count == 0) || ((s1[compare[0]] == s2[compare[1]]) && (s2[compare[0]] == s1[compare[1]])))
+      return true;
+
+    return false;
   }
-  if (n > 0) {
-    meanOfElements = meanOfElements / n;
-  }
-
-  float upperTermSum = 0;
-  for (int i = 0; i < n; i++)
-  {
-    upperTermSum = upperTermSum + pow(arrayOfElements[i] - meanOfElements, 2);
-  }
-
-  return (sqrt(upperTermSum/n));
-}
-
-int main()
-{
-  int n;
-  cout << "How many elements do you have: ";
-  cin >> n;
-
-  float arrayOfElements[n];
-
-  cout << "Enter the elements one by one:";
-  for (int i = 0; i < n; i++)
-  {
-    cin >> arrayOfElements[i];
-  }
-
-  cout << "Standard deviation of the data given: " << (standardDevOfData(arrayOfElements, n)) << endl;
-  return 0;
-}
+};

@@ -237,6 +237,7 @@ Enter the number of rows in the pyramid: 5
 4 5 6 7
 5 6 7 8 9
 ```
+### Numbers
 
 29. Program To Check Number Is Prime Or Not Using If/Else Statements
 
@@ -283,5 +284,7 @@ Score in subject Grade
 45. Check whether the number is Armstrong or not
 46. Count Number of Digits in a given Number
 47. Determine Perfect Square Program
+48. Determine if the Number is Prime or Composite
+
 
  
