@@ -285,6 +285,8 @@ Score in subject Grade
 46. Count Number of Digits in a given Number
 47. Determine Perfect Square Program
 48. Determine if the Number is Prime or Composite
+49. Find the Reverse of the Entered Number
+
 
 
  
