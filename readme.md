@@ -294,4 +294,7 @@ Score in subject Grade
 ### Array
 
 51. Program To Find Row In An Array That Includes The Greatest Amount Of Even Number
+52. Program To Check Primeness Of An Array
+
+    We are given an array of numbers. The goal is to find the count of prime numbers in that array.
 
