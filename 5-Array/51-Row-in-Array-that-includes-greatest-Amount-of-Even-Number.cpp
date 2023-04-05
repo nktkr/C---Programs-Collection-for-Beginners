@@ -12,15 +12,31 @@ int main()
   cin >> n;
 
   int arr[m][n];
+  int max_even_count = 0;
+  int max_even_row = 0;
+  int count = 0;
 
-  // taking input array
+  // taking input of elements of array
   for(int i = 0; i < m; i++)
   {
     for(int j = 0; j < n; j++)
-    {
-      ls
-      
-    }
+      cin >> arr[i][j];
   }
+
+  for(int i = 0; i < m; i++)
+  {
+
+    for(int j = 0; j < n; j++)
+    {
+      if(arr[i][j] / 2 == 0)
+      {
+        count ++;
+      }
+    }
+    if(count > max_even_count)
+      max_even_row = i;
+    count = 0;
+  }
+
 
 }
