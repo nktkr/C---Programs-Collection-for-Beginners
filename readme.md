@@ -298,3 +298,5 @@ Score in subject Grade
 
     We are given an array of numbers. The goal is to find the count of prime numbers in that array.
 
+53. Program To find Average Of Array Function Of Using Pointer
+
