@@ -300,3 +300,10 @@ Score in subject Grade
 
 53. Program To find Average Of Array Function Of Using Pointer
 
+54. Print Reverse Order And Print Sum Of Its Element Of An Array <br> Different methods can be used to reverse the elements of an array like:-
+
+- [x] Reverse an array using for loop
+- [ ] Reverse an array using the reverse() function
+- [ ] Reverse an array using the user-defined function
+- [ ] Reverse an array using the pointers
+- [ ] Reverse an array using the Recursion function
