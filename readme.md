@@ -307,3 +307,13 @@ Score in subject Grade
 - [ ] Reverse an array using the user-defined function
 - [ ] Reverse an array using the pointers
 - [ ] Reverse an array using the Recursion function
+
+55. C++ Program To Reverse An Array In O(n);
+
+Following are the various ways to get the reverse array 
+
+- [ ] Reverse an array using for loop
+- [ ] Reverse an array using the reverse() function
+- [x] Reverse an array using the user-defined function
+- [ ] Reverse an array using the pointers
+- [ ] Reverse an array using the Recursion function
