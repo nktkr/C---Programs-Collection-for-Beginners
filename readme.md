@@ -320,3 +320,5 @@ Following are the various ways to get the reverse array
 
 56. Program For Swapping Two Number In Function Using Pointer
 
+57. C++ Program To Print Address Of Pointer Of An Array Using Pointer
+
