@@ -322,3 +322,5 @@ Following are the various ways to get the reverse array
 
 57. C++ Program To Print Address Of Pointer Of An Array Using Pointer
 
+58. Program To Check Evenness / Oddness Of An Array
+
