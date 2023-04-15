@@ -324,3 +324,5 @@ Following are the various ways to get the reverse array
 
 58. Program To Check Evenness / Oddness Of An Array
 
+59. How to Delete an Array element
+
