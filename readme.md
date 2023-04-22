@@ -326,3 +326,6 @@ Following are the various ways to get the reverse array
 
 59. How to Delete an Array element
 
+60. Find Sum and Average of the Array Elements in C++
+
+
