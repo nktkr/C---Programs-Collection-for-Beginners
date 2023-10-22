@@ -27,4 +27,6 @@ int main()
 /* Output=
 { g++ 1-Hello-world.cpp -o 1-Hello-world } ; if ($?) { .\1-Hello-world }
 Hello world
-My Name is Ankit Kumar Singh */
+My Name is Ankit 
+Kumar
+ Singh */
